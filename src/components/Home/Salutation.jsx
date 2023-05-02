@@ -7,18 +7,18 @@ export default function Salutation() {
             typingSpeed="200"
             cursorCharacter=""
             strings={[
-                "Position 1",
+                "Web Developer",
                 <Delay ms={2000} />,
-                <Delete characters={10} />,
-                "Position 2",
+                <Delete characters={13} />,
+                "ML Enthusiast",
                 <Delay ms={2000} />,
-                <Delete characters={10} />,
-                "Position 3",
+                <Delete characters={13} />,
+                "Problem Solver",
                 <Delay ms={2000} />,
-                <Delete characters={10} />,
-                "Position 4",
+                <Delete characters={14} />,
+                "Senior",
                 <Delay ms={2000} />,
-                <Delete characters={10} />,
+                <Delete characters={6} />,
             ]}
         />
     );

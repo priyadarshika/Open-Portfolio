@@ -24,7 +24,7 @@ Add your Work image in assets folder and import the image like below images.
 import PROJECT from "../assets/project.jpeg";
 
 export const data = {
-    name: "John Doe",
+    name: "Priyadarshika Nimesh",
     tagline:
         "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
     resume: "https://www.google.com",
