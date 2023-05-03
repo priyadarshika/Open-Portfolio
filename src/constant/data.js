@@ -6,15 +6,16 @@ Add your Skill image in assets folder and import the image like below images.
 import HTML from "../assets/html.png";
 import CSS from "../assets/css.png";
 import JS from "../assets/javascript.png";
-import REACT from "../assets/react.png";
+/*import MACHINE_LEARNING from "../assets/machine_learning.png";*/
 import GITHUB from "../assets/github.png";
-import TAILWIND from "../assets/tailwind.png";
+/*import TAILWIND from "../assets/tailwind.png";*/
 import PYTHON from "../assets/python.png";
 import C from "../assets/c.png";
 import CPP from "../assets/cpp.png";
-import BOOTSTRAP from "../assets/bootstrap.png";
+import CRITICAL_THINKING from "../assets/critical_thinking.png";
 import GIT from "../assets/git.png";
-import GCP from "../assets/gcp.png";
+import MACHINE_LEARNING from "../assets/machine_learning.png";
+import VISUALIZATION from "../assets/visualization.png";
 
 /*
 WORK IMAGES
@@ -26,7 +27,7 @@ import PROJECT from "../assets/project.jpeg";
 export const data = {
     name: "Priyadarshika Nimesh",
     tagline:
-        "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+        " As a pre-final year engineering student with a focus on web development and proficiency in C++, I am passionate about leveraging technology to create innovative solutions that improve people's lives. I am interested in learning about cybersecurity, as I have attended a summary internship in cybersecurity which has covered the basics tools of the same.I have also enthusiastically taken part in college events as an organizer and also been a part of innotech as a coordinator and managed many more even. This provides me the opportunities to collaborate with like-minded individuals and showcase my expertise in problem-solving skills whether it's creating responsive machine learning algorithms. I am committed to delivering high-quality work that meets the needs of clients and users alike.With a strong focus on continuous learning and development, I am always seeking opportunities to expand my skill set and stay up-to-date with the latest trends and best practices in the tech industry. If you are interested in connecting or discussing potential collaborations, please don't hesitate to reach out.",
     resume: "https://www.google.com",
 
     skills: [
@@ -39,20 +40,16 @@ export const data = {
             image: CSS,
         },
         {
-            name: "TAILWIND",
-            image: TAILWIND,
+            name: "DATA VISUALIZATION",
+            image: VISUALIZATION,
         },
         {
-            name: "BOOTSTRAP",
-            image: BOOTSTRAP,
+            name: "CRITICAL_THINKING",
+            image: CRITICAL_THINKING,
         },
         {
             name: "JAVASCRIPT",
             image: JS,
-        },
-        {
-            name: "REACT JS",
-            image: REACT,
         },
         {
             name: "C",
@@ -75,66 +72,61 @@ export const data = {
             image: GITHUB,
         },
         {
-            name: "GOOGLE CLOUD",
-            image: GCP,
+            name: "MACHINE LEARNING",
+            image: MACHINE_LEARNING,
         },
     ],
 
     work: [
         {
-            name: "Sample Project 1",
+            name: "Sathi-FIR",
             description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "(Work in progress)  A website which helps in registering FIR online so that everyone's FIR should be registered and is provided by proof of registration ",
             demoLink: "https://www.google.com",
             codeLink: "https://www.google.com",
             image: PROJECT,
         },
         {
-            name: "Sample Project 2",
+            name: "Krishi-gyaan",
             description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            demoLink: "https://www.google.com",
+                "A website which helps farmer to cultivate multiple crops on the same soil and for trsting hte soil and its diseases ",
+            demoLink: "/",
             codeLink: "https://www.google.com",
             image: PROJECT,
         },
         {
-            name: "Sample Project 3",
+            name: "Rental clothes",
             description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-            demoLink: "https://www.google.com",
-            codeLink: "https://www.google.com",
+                "A website which helps the people in take clothes on rent purpose and it also provide a AI visualisation of clothes so that they can check it in a comfortalbe way.",
+            demoLink: "/",
+            codeLink: "/",
             image: PROJECT,
         },
     ],
 
     experience: [
         {
-            name: "Position 1",
+            name: "Contributer(team mate)",
             description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "Taken part in contributing in the intership provided by college and worked as a team mate in particular project ",
         },
         {
-            name: "Position 2",
+            name: "Head Coordinator and volunteer",
             description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "Contributed as club volunteer and coordinator also been an organizer in organising various events including tech events",
         },
         {
-            name: "Position 3",
+            name: "Open source contributer",
             description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
-        },
-        {
-            name: "Position 4",
-            description:
-                "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+                "contributed in open source .",
         },
     ],
 
     socials: {
-        linkedIn: "https://www.google.com",
-        gitHub: "https://www.google.com",
-        twitter: "https://www.google.com",
-        mail: "johndoe@gmail.com",
+        linkedIn: "https://www.linkedin.com/in/priyadarshika001/",
+        gitHub: "https://github.com/priyadarshika",
+        twitter: "https://twitter.com/darshika2603",
+        mail: "iampriyadarshika17@gmail.com",
     },
 };
 
