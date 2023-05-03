@@ -27,8 +27,8 @@ import PROJECT from "../assets/project.jpeg";
 export const data = {
     name: "Priyadarshika Nimesh",
     tagline:
-        " As a pre-final year engineering student with a focus on web development and proficiency in C++, I am passionate about leveraging technology to create innovative solutions that improve people's lives. I am interested in learning about cybersecurity, as I have attended a summary internship in cybersecurity which has covered the basics tools of the same.I have also enthusiastically taken part in college events as an organizer and also been a part of innotech as a coordinator and managed many more even. This provides me the opportunities to collaborate with like-minded individuals and showcase my expertise in problem-solving skills whether it's creating responsive machine learning algorithms. I am committed to delivering high-quality work that meets the needs of clients and users alike.With a strong focus on continuous learning and development, I am always seeking opportunities to expand my skill set and stay up-to-date with the latest trends and best practices in the tech industry. If you are interested in connecting or discussing potential collaborations, please don't hesitate to reach out.",
-    resume: "https://www.google.com",
+        "A rigorous task-driven professional with substantial experience in website development, Machine learner, who is open to learning something new every day!.",
+    resume: "https://drive.google.com/file/d/1U319OrcIazeCx4JrpfZAnKeRwA17JiYy/view?usp=sharing",
 
     skills: [
         {
